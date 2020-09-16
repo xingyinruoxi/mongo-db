@@ -1,0 +1,26 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "mongoDB数据库应用",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingyinruoxi/mongo-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingyinruoxi/mongo-db/issues"
+  },
+  "homepage": "https://github.com/xingyinruoxi/mongo-db#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}
