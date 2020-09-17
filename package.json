@@ -22,5 +22,8 @@
   "homepage": "https://github.com/xingyinruoxi/mongo-db#readme",
   "dependencies": {
     "mongodb": "^3.6.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
   }
 }
